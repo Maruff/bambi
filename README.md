@@ -5,7 +5,7 @@
 [![codecov](https://codecov.io/gh/bambinos/bambi/branch/master/graph/badge.svg?token=ZqH0KCLKAE)](https://codecov.io/gh/bambinos/bambi)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
-Social Networking Platform for Tamil Nationals developed in Python, forked from bambi
+BAyesian Model-Building Interface (Bambi) in Python.
 
 ## Overview
 
